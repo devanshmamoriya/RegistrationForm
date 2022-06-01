@@ -11,5 +11,5 @@ This is a registration form, in which students enter their information which sto
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ##Screen Shots :
-![Dashboard]()
+![Dashboard](https://github.com/devanshmamoriya/RegistrationForm/blob/main/Screenshot%20(1).png)
 ![Visualize]()
